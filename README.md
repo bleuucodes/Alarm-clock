@@ -1,2 +1,2 @@
 # Alarm-clock
-This is a basic alarm clock application made using html,css and javascript.
+This is a basic alarm clock made using html,css and javascript.
